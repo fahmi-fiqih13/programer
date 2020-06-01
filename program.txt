@@ -1,4 +1,6 @@
 program fahmi :
 - menguasai logic & algoritma
 - server-side php
-- server-side javascript
+- server-side 
+  ^ golang
+  
